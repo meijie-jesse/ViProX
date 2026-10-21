@@ -1,0 +1,18 @@
+# data and checkpoints
+data/
+ckpt/
+*.ckpt
+*.pth
+*.npy
+*.pkl
+*.mp4
+*.hdf5
+
+# RAFT external clone
+RAFT/
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
